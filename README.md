@@ -1,4 +1,4 @@
-# React To-Do List Lab
+# To-Do-List App
 
 Welcome to the **To-Do List App**! This project is designed to use React functional components and the `useState` hook while building a basic to-do list application.
 
